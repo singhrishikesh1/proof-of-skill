@@ -106,7 +106,7 @@ SkillChain introduces a **wallet-native infrastructure layer** that enables:
 
 ### Tools
 
-* TypeScript
+* Typescript
 * Vite / Bun
 * Playwright (testing)
 
