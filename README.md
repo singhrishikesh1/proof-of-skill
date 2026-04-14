@@ -102,7 +102,7 @@ SkillChain introduces a **wallet-native infrastructure layer** that enables:
 
 * Ethers.js / Wagmi
 * Smart Contracts (Solidity)
-* Polygon Testnet
+* Polugon Testnet
 
 ### Tools
 
