@@ -36,7 +36,7 @@ SkillChain introduces a **wallet-native infrastructure layer** that enables:
 
 ### 🪪 On-Chain Identity
 
-* Wallet = Resume
+* wallet = resume
 * Skills stored as **Soulbound Tokens (SBTs)**
 * Verifiable credentials recorded on-chain
 
